@@ -4,6 +4,9 @@
         display: grid !important;
     }
 
+    .section-heading span {
+        display: none !important;
+    }
 
     #main {
         padding: 12px 24px !important;
