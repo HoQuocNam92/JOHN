@@ -1,0 +1,31 @@
+@media (max-width: 768px) {
+
+    #navbar {
+        display: grid !important;
+    }
+
+
+    #main {
+        padding: 12px 24px !important;
+    }
+
+    #sidebar {
+        display: none !important;
+    }
+
+    #page-content {
+        margin-left: 0 !important;
+    }
+
+    .pricing-tables {
+        display: block !important;
+    }
+
+    .table {
+        width: 100% !important;
+    }
+
+    .grid-photos {
+        column-count: 1 !important;
+    }
+}
