@@ -28,4 +28,9 @@
     .grid-photos {
         column-count: 1 !important;
     }
+
+    .send-btn {
+        padding: 12px 24px !important;
+        cursor: pointer !important;
+    }
 }
